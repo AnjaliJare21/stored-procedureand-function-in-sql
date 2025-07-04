@@ -7,7 +7,7 @@ To create reusable blocks of SQL logic using stored procedures and functions for
 ## Tables Used
 - Employees
 
-## 🔧 Components
+##  Components
 1. **Stored Procedure:** `IncreaseSalaryByDept(dept_id, increment)`
 2. **Function:** `GetDeptTotalSalary(dept_id)`
 
